@@ -9,7 +9,7 @@
         <choice_table/>
         <create_roles/>
         <default_html_value/>
-        <default_value/>
+        <default_value>javascript: gs.getUserDisplayName();</default_value>
         <delete_roles/>
         <delivery_plan/>
         <description/>
@@ -37,18 +37,18 @@
         <lookup_value/>
         <macro/>
         <macroponent/>
-        <mandatory>true</mandatory>
+        <mandatory>false</mandatory>
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>delivery_infor</name>
-        <order>300</order>
+        <name>requested_by</name>
+        <order/>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Delivery information</question_text>
-        <read_only>false</read_only>
+        <question_text>Requested by</question_text>
+        <read_only>true</read_only>
         <read_roles/>
         <read_script/>
         <rec_lookup_price/>
@@ -75,19 +75,19 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>shu</sys_created_by>
-        <sys_created_on>2024-05-01 03:03:02</sys_created_on>
-        <sys_id>70becf8747b14a1023fefe02d16d4376</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>Delivery information</sys_name>
-        <sys_package/>
+        <sys_created_on>2024-05-01 03:40:41</sys_created_on>
+        <sys_id>d6555f0f47b14a1023fefe02d16d4399</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Requested by</sys_name>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
-        <sys_update_name>item_option_new_70becf8747b14a1023fefe02d16d4376</sys_update_name>
+        <sys_update_name>item_option_new_d6555f0f47b14a1023fefe02d16d4399</sys_update_name>
         <sys_updated_by>shu</sys_updated_by>
-        <sys_updated_on>2024-05-01 03:25:49</sys_updated_on>
+        <sys_updated_on>2024-05-01 03:41:53</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>2</type>
+        <type>6</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
@@ -103,22 +103,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=70becf8747b14a1023fefe02d16d4376"/>
-    <fx_price action="delete_multiple" query="id=70becf8747b14a1023fefe02d16d4376"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=d6555f0f47b14a1023fefe02d16d4399"/>
+    <fx_price action="delete_multiple" query="id=d6555f0f47b14a1023fefe02d16d4399"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price_if_checked</field>
-        <id>70becf8747b14a1023fefe02d16d4376</id>
+        <id>d6555f0f47b14a1023fefe02d16d4399</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>shu</sys_created_by>
-        <sys_created_on>2024-05-01 03:03:02</sys_created_on>
-        <sys_id>4ade83c747b14a1023fefe02d16d4331</sys_id>
+        <sys_created_on>2024-05-01 03:40:41</sys_created_on>
+        <sys_id>6d77934347f14a1023fefe02d16d4333</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>shu</sys_updated_by>
-        <sys_updated_on>2024-05-01 03:03:02</sys_updated_on>
+        <sys_updated_on>2024-05-01 03:40:41</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -126,16 +126,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>rec_price_if_checked</field>
-        <id>70becf8747b14a1023fefe02d16d4376</id>
+        <id>d6555f0f47b14a1023fefe02d16d4399</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>shu</sys_created_by>
-        <sys_created_on>2024-05-01 03:03:02</sys_created_on>
-        <sys_id>0ede83c747b14a1023fefe02d16d4330</sys_id>
+        <sys_created_on>2024-05-01 03:40:41</sys_created_on>
+        <sys_id>ad77934347f14a1023fefe02d16d4332</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>shu</sys_updated_by>
-        <sys_updated_on>2024-05-01 03:03:02</sys_updated_on>
+        <sys_updated_on>2024-05-01 03:40:41</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Request Loaner Vehicle">c77d8f0747b14a1023fefe02d16d43af</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>shu</sys_created_by>
+        <sys_created_on>2024-05-01 02:58:11</sys_created_on>
+        <sys_id>7abdcb4747b14a1023fefe02d16d430a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Request Loaner Vehicle</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_7abdcb4747b14a1023fefe02d16d430a</sys_update_name>
+        <sys_updated_by>shu</sys_updated_by>
+        <sys_updated_on>2024-05-01 02:58:11</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</application>
+        <file_path/>
+        <instance_id>347a81f8dbb23590caf99027c59619a6</instance_id>
+        <instance_name>dev225936</instance_name>
+        <name>sc_cat_item_catalog_7abdcb4747b14a1023fefe02d16d430a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Request Loaner Vehicle">c77d8f0747b14a1023fefe02d16d43af</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>shu</sys_created_by><sys_created_on>2024-05-01 02:58:11</sys_created_on><sys_id>7abdcb4747b14a1023fefe02d16d430a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Request Loaner Vehicle</sys_name><sys_package/><sys_policy/><sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope><sys_update_name>sc_cat_item_catalog_7abdcb4747b14a1023fefe02d16d430a</sys_update_name><sys_updated_by>shu</sys_updated_by><sys_updated_on>2024-05-01 02:58:11</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1757307477</payload_hash>
+        <record_name>Service Catalog.Request Loaner Vehicle</record_name>
+        <reverted_from/>
+        <source>234f4fc747b14a1023fefe02d16d43de</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>shu</sys_created_by>
+        <sys_created_on>2024-05-01 03:05:03</sys_created_on>
+        <sys_id>a74f8fc747b14a1023fefe02d16d432a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f321cde7b0000001</sys_recorded_at>
+        <sys_updated_by>shu</sys_updated_by>
+        <sys_updated_on>2024-05-01 03:05:03</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>eb4f8fc781b14a106538c4565acec629</update_guid>
+        <update_guid_history>eb4f8fc781b14a106538c4565acec629:-1757307477,af4f8fc7a4b14a10b2a26af49cb39223:-611087394</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Request Loaner Vehicle">9ca04ad747318a1023fefe02d16d43bf</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>shu</sys_created_by>
+        <sys_created_on>2024-05-01 15:59:48</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>20cd60643af94cbb833b1dd4b94721c1</sys_id>
+        <sys_metadata>7abdcb4747b14a1023fefe02d16d430a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Request Loaner Vehicle</sys_name>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_parent display_value="">c77d8f0747b14a1023fefe02d16d43af</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_scope_delete display_value="">082d79490ac4468f81fd6de296a8af59</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_7abdcb4747b14a1023fefe02d16d430a</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_7abdcb4747b14a1023fefe02d16d430a">a74f8fc747b14a1023fefe02d16d432a</sys_update_version>
+        <sys_updated_by>shu</sys_updated_by>
+        <sys_updated_on>2024-05-01 15:59:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

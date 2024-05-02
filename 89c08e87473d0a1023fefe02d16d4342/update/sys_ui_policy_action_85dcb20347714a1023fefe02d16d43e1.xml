@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>expected_return_date</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>shu</sys_created_by>
+        <sys_created_on>2024-05-01 01:44:33</sys_created_on>
+        <sys_id>85dcb20347714a1023fefe02d16d43e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>expected_return_date</sys_name>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_update_name>sys_ui_policy_action_85dcb20347714a1023fefe02d16d43e1</sys_update_name>
+        <sys_updated_by>shu</sys_updated_by>
+        <sys_updated_on>2024-05-01 01:44:33</sys_updated_on>
+        <table>x_1311516_loaner_v_vehicle_tracker</table>
+        <ui_policy display_value="if Vehicle Status is Pending Release or Out on Field then make Assigned to, Location, Date requested,  Expected Return Data Mandatory">53dbfa8f47314a1023fefe02d16d438b</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

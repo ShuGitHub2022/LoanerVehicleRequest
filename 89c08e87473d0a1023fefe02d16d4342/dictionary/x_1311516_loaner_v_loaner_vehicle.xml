@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1833ca4b473d0a1023fefe02d16d4306" label="Loaner vehicle Catalog" max_length="40" name="x_1311516_loaner_v_loaner_vehicle" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Image" max_length="40" name="image" type="user_image"/>
+        <element attributes="edge_encryption_enabled=true" label="Number" mandatory="true" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" mandatory="true" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Available" sequence="1" value="available"/>
+                <element inactive_on_update="false" label="Unavailable" sequence="2" value="unavailable"/>
+                <element inactive_on_update="false" label="Decommissioned" sequence="3" value="decommissioned"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Vehicle Description" max_length="1000" name="vehicle_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Vehicle Make" mandatory="true" max_length="40" name="vehicle_make" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Vehicle Model" mandatory="true" max_length="40" name="vehicle_model" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Vehicle Year" max_length="40" name="vehicle_year" type="string"/>
+    </element>
+</database>
