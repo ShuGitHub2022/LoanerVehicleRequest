@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="DELETE">
+        <operation>execute</operation>
+        <source_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>shu</sys_created_by>
+        <sys_created_on>2024-05-14 17:57:04</sys_created_on>
+        <sys_id>08e7dd674746061023fefe02d16d434e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>getLocation</sys_name>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_update_name>sys_scope_privilege_08e7dd674746061023fefe02d16d434e</sys_update_name>
+        <sys_updated_by>shu</sys_updated_by>
+        <sys_updated_on>2024-05-14 18:12:03</sys_updated_on>
+        <target_name>getLocation</target_name>
+        <target_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</target_scope>
+        <target_type>sys_script_include</target_type>
+    </sys_scope_privilege>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</application>
+        <file_path/>
+        <instance_id>347a81f8dbb23590caf99027c59619a6</instance_id>
+        <instance_name>dev225936</instance_name>
+        <name>sys_scope_privilege_08e7dd674746061023fefe02d16d434e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>shu</sys_created_by><sys_created_on>2024-05-14 17:57:04</sys_created_on><sys_id>08e7dd674746061023fefe02d16d434e</sys_id><sys_mod_count>2</sys_mod_count><sys_name>getLocation</sys_name><sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope><sys_update_name>sys_scope_privilege_08e7dd674746061023fefe02d16d434e</sys_update_name><sys_updated_by>shu</sys_updated_by><sys_updated_on>2024-05-14 18:12:03</sys_updated_on><target_name>getLocation</target_name><target_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</target_scope><target_type>sys_script_include</target_type></sys_scope_privilege></record_update>]]></payload>
+        <payload_hash>-1349891069</payload_hash>
+        <record_name>getLocation</record_name>
+        <reverted_from/>
+        <source>36c1d17347710e1023fefe02d16d43bf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>shu</sys_created_by>
+        <sys_created_on>2024-05-14 18:12:03</sys_created_on>
+        <sys_id>109b1d6b4746061023fefe02d16d43d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f784deba90000001</sys_recorded_at>
+        <sys_updated_by>shu</sys_updated_by>
+        <sys_updated_on>2024-05-14 18:12:03</sys_updated_on>
+        <type>Cross scope privilege</type>
+        <update_guid>949b1d6b6c460610d2ef6d0ec97fb1d5</update_guid>
+        <update_guid_history>949b1d6b6c460610d2ef6d0ec97fb1d5:-1349891069,05985da731460610c96106ef68df1f96:1641965882,b428d9a361460610d4dded34377210bd:628716852</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>shu</sys_created_by>
+        <sys_created_on>2024-05-14 18:12:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_scope_privilege">sys_scope_privilege</sys_db_object>
+        <sys_id>4cf3d4f26b6946438125f2aa9f3dfb91</sys_id>
+        <sys_metadata>08e7dd674746061023fefe02d16d434e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>getLocation</sys_name>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_scope_delete display_value="">082d79490ac4468f81fd6de296a8af59</sys_scope_delete>
+        <sys_update_name>sys_scope_privilege_08e7dd674746061023fefe02d16d434e</sys_update_name>
+        <sys_update_version display_value="sys_scope_privilege_08e7dd674746061023fefe02d16d434e">109b1d6b4746061023fefe02d16d43d6</sys_update_version>
+        <sys_updated_by>shu</sys_updated_by>
+        <sys_updated_on>2024-05-14 18:12:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

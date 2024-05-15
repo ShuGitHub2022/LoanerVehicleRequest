@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="sc_cat_item" relationship="" sys_domain="global" table="item_option_new" version="2" view="loaner_vehicle">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>type</element>
+            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="sc_cat_item" relationship="NULL" sys_domain="global" view="1f63e99347c2c21023fefe02d16d43a2">3d7321d347c2c21023fefe02d16d43a6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>shu</sys_created_by>
+            <sys_created_on>2024-05-14 00:08:05</sys_created_on>
+            <sys_id>f57321d347c2c21023fefe02d16d43a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>shu</sys_updated_by>
+            <sys_updated_on>2024-05-14 00:08:05</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>question_text</element>
+            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="sc_cat_item" relationship="NULL" sys_domain="global" view="1f63e99347c2c21023fefe02d16d43a2">3d7321d347c2c21023fefe02d16d43a6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>shu</sys_created_by>
+            <sys_created_on>2024-05-14 00:08:05</sys_created_on>
+            <sys_id>f97321d347c2c21023fefe02d16d43a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>shu</sys_updated_by>
+            <sys_updated_on>2024-05-14 00:08:05</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>order</element>
+            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="sc_cat_item" relationship="NULL" sys_domain="global" view="1f63e99347c2c21023fefe02d16d43a2">3d7321d347c2c21023fefe02d16d43a6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>shu</sys_created_by>
+            <sys_created_on>2024-05-14 00:08:05</sys_created_on>
+            <sys_id>b97361d347c2c21023fefe02d16d4349</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>shu</sys_updated_by>
+            <sys_updated_on>2024-05-14 00:08:05</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="sc_cat_item" relationship="NULL" sys_domain="global" view="1f63e99347c2c21023fefe02d16d43a2">3d7321d347c2c21023fefe02d16d43a6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>shu</sys_created_by>
+            <sys_created_on>2024-05-14 00:08:05</sys_created_on>
+            <sys_id>bd7361d347c2c21023fefe02d16d4349</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>shu</sys_updated_by>
+            <sys_updated_on>2024-05-14 00:08:05</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>item_option_new</name>
+            <parent>sc_cat_item</parent>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>shu</sys_created_by>
+            <sys_created_on>2024-05-14 00:08:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3d7321d347c2c21023fefe02d16d43a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>item_option_new</sys_name>
+            <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+            <sys_update_name>sys_ui_list_item_option_new_sc_cat_item_loaner_vehicle</sys_update_name>
+            <sys_updated_by>shu</sys_updated_by>
+            <sys_updated_on>2024-05-14 00:08:05</sys_updated_on>
+            <sys_user/>
+            <view display_value="loaner vehicle" name="loaner_vehicle">1f63e99347c2c21023fefe02d16d43a2</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

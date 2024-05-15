@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="demo table">ab069db747710e1023fefe02d16d433c</application>
+        <filter/>
+        <name>demo tables</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_1311516_loaner_v.demo_table_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>shu</sys_created_by>
+        <sys_created_on>2024-05-03 02:10:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ab069db747710e1023fefe02d16d433f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>demo tables</sys_name>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_update_name>sys_ui_module_ab069db747710e1023fefe02d16d433f</sys_update_name>
+        <sys_updated_by>shu</sys_updated_by>
+        <sys_updated_on>2024-05-03 02:10:45</sys_updated_on>
+        <table>x_1311516_loaner_v_demo_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</application>
+        <file_path/>
+        <instance_id>347a81f8dbb23590caf99027c59619a6</instance_id>
+        <instance_name>dev225936</instance_name>
+        <name>sys_ui_module_ab069db747710e1023fefe02d16d433f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="demo table">ab069db747710e1023fefe02d16d433c</application><filter/><name>demo tables</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_1311516_loaner_v.demo_table_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>shu</sys_created_by><sys_created_on>2024-05-03 02:10:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ab069db747710e1023fefe02d16d433f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>demo tables</sys_name><sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope><sys_update_name>sys_ui_module_ab069db747710e1023fefe02d16d433f</sys_update_name><sys_updated_by>shu</sys_updated_by><sys_updated_on>2024-05-03 02:10:45</sys_updated_on><table>x_1311516_loaner_v_demo_table</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>1983407511</payload_hash>
+        <record_name>demo tables</record_name>
+        <reverted_from/>
+        <source>36c1d17347710e1023fefe02d16d43bf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>shu</sys_created_by>
+        <sys_created_on>2024-05-03 02:10:45</sys_created_on>
+        <sys_id>ef069db747710e1023fefe02d16d434e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f3c37e01a0000001</sys_recorded_at>
+        <sys_updated_by>shu</sys_updated_by>
+        <sys_updated_on>2024-05-03 02:10:45</sys_updated_on>
+        <type>Module</type>
+        <update_guid>27069db7bd710e10a0534d64f877544e</update_guid>
+        <update_guid_history>27069db7bd710e10a0534d64f877544e:1983407511</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>shu</sys_created_by>
+        <sys_created_on>2024-05-03 02:19:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>1c0fdd8f12a845f3832dc637758fa299</sys_id>
+        <sys_metadata>ab069db747710e1023fefe02d16d433f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>demo tables</sys_name>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_scope_delete display_value="">082d79490ac4468f81fd6de296a8af59</sys_scope_delete>
+        <sys_update_name>sys_ui_module_ab069db747710e1023fefe02d16d433f</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_ab069db747710e1023fefe02d16d433f">ef069db747710e1023fefe02d16d434e</sys_update_version>
+        <sys_updated_by>shu</sys_updated_by>
+        <sys_updated_on>2024-05-03 02:19:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="1833ca4b473d0a1023fefe02d16d4306" label="Loaner vehicle Catalog" max_length="40" name="x_1311516_loaner_v_loaner_vehicle" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Image" max_length="40" name="image" type="user_image"/>
-        <element attributes="edge_encryption_enabled=true" label="Number" mandatory="true" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:getNextObjNumberPadded();" display="true" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Number" mandatory="true" max_length="40" name="number" read_only="true" type="string" use_dynamic_default="true"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Status" mandatory="true" max_length="40" name="status" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Available" sequence="1" value="available"/>

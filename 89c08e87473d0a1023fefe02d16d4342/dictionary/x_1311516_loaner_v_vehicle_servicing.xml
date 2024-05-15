@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="2a850a0f473d0a1023fefe02d16d4374" label="Vehicle Servicing" max_length="40" name="x_1311516_loaner_v_vehicle_servicing" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Date sent for Service" mandatory="true" max_length="40" name="date_sent_for_service" type="glide_date"/>
-        <element attributes="edge_encryption_enabled=true" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:getNextObjNumberPadded();" display="true" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Number" mandatory="true" max_length="40" name="number" read_only="true" type="string" use_dynamic_default="true"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Ticket Status" mandatory="true" max_length="40" name="ticket_status" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Open" sequence="1" value="open"/>
