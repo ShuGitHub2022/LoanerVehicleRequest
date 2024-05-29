@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA Loaner Vehicle Dashb - New Tab">992d809047ee021023fefe02d16d4316</canvas_page>
+        <name>Loaner Vehicle Dashb - New Tab</name>
+        <page display_value="PA Loaner Vehicle Dashb - New Tab">dd2d041047ee021023fefe02d16d430e</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>shu</sys_created_by>
+        <sys_created_on>2024-05-29 06:40:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>552d809047ee021023fefe02d16d4319</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Vehicle Dashb - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_update_name>pa_tabs_552d809047ee021023fefe02d16d4319</sys_update_name>
+        <sys_updated_by>shu</sys_updated_by>
+        <sys_updated_on>2024-05-29 06:40:33</sys_updated_on>
+    </pa_tabs>
+</record_update>

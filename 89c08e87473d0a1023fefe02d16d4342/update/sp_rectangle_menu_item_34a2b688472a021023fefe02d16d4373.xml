@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_rectangle_menu_item">
+    <sp_rectangle_menu_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <color>default</color>
+        <condition/>
+        <display_1/>
+        <display_2/>
+        <display_date/>
+        <filter/>
+        <glyph/>
+        <hint/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <label>Loan a Vehicle</label>
+        <order>50</order>
+        <record_script/>
+        <sc_cat_item display_value="Request Loaner Vehicle">f22c395347318a1023fefe02d16d43d5</sc_cat_item>
+        <sc_category/>
+        <short_description/>
+        <sp_page display_value="sc_cat_item">9f12251147132100ba13a5554ee490f4</sp_page>
+        <sp_rectangle_menu display_value="Vehicle Warehouse Header">0af7de8847a6021023fefe02d16d43c1</sp_rectangle_menu>
+        <sp_rectangle_menu_item/>
+        <sys_class_name>sp_rectangle_menu_item</sys_class_name>
+        <sys_created_by>shu</sys_created_by>
+        <sys_created_on>2024-05-29 00:05:33</sys_created_on>
+        <sys_id>34a2b688472a021023fefe02d16d4373</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Loan a Vehicle</sys_name>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_update_name>sp_rectangle_menu_item_34a2b688472a021023fefe02d16d4373</sys_update_name>
+        <sys_updated_by>shu</sys_updated_by>
+        <sys_updated_on>2024-05-29 06:05:42</sys_updated_on>
+        <table/>
+        <type>sc_cat_item</type>
+        <url/>
+        <url_target/>
+    </sp_rectangle_menu_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=34a2b688472a021023fefe02d16d4373"/>
+</record_update>

@@ -17,6 +17,7 @@
                 <element inactive_on_update="false" label="Returned  with Major Issues" sequence="3" value="major issue"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" function_definition="glidefunction:datediff(date_required,expected_return_date)" function_field="true" label="expected return date" max_length="40" name="rpt_expected_return_date" read_only="true" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Tracker Status" mandatory="true" max_length="40" name="tracker_status" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Open" sequence="1" value="open"/>

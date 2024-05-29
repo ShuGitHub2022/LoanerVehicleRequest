@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA Loaner Vehicle Dashb - New Tab">992d809047ee021023fefe02d16d4316</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 2024-05-28 23:41:38">0d6dc09047ee021023fefe02d16d43fc</portal_widget>
+        <posx>0</posx>
+        <posy>10</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>shu</sys_created_by>
+        <sys_created_on>2024-05-29 06:41:38</sys_created_on>
+        <sys_id>c56dc09047ee021023fefe02d16d43fe</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>992d809047ee021023fefe02d16d4316</sys_name>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_c56dc09047ee021023fefe02d16d43fe</sys_update_name>
+        <sys_updated_by>shu</sys_updated_by>
+        <sys_updated_on>2024-05-29 06:42:29</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+</record_update>
