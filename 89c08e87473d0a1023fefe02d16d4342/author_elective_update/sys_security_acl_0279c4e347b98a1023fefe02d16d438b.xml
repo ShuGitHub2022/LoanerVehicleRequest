@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1311516_loaner_v_vehicle_tracker</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-02 01:57:40</sys_created_on>
+        <sys_id>0279c4e347b98a1023fefe02d16d438b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1311516_loaner_v_vehicle_tracker</sys_name>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_update_name>sys_security_acl_0279c4e347b98a1023fefe02d16d438b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-02 01:57:40</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</application>
+        <file_path/>
+        <instance_id>347a81f8dbb23590caf99027c59619a6</instance_id>
+        <instance_name>dev225936</instance_name>
+        <name>sys_security_acl_0279c4e347b98a1023fefe02d16d438b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><local_or_existing>Local</local_or_existing><name>x_1311516_loaner_v_vehicle_tracker</name><operation display_value="read">read</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-02 01:57:40</sys_created_on><sys_id>0279c4e347b98a1023fefe02d16d438b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1311516_loaner_v_vehicle_tracker</sys_name><sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope><sys_update_name>sys_security_acl_0279c4e347b98a1023fefe02d16d438b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-02 01:57:40</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>1832646426</payload_hash>
+        <record_name>x_1311516_loaner_v_vehicle_tracker</record_name>
+        <reverted_from/>
+        <source>3a360a4f473d0a1023fefe02d16d43b1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-02 01:57:40</sys_created_on>
+        <sys_id>ca79c4e347b98a1023fefe02d16d438d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f3705868a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-02 01:57:40</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>0279c4e360b98a10b1e03cdb11b2808d</update_guid>
+        <update_guid_history>0279c4e360b98a10b1e03cdb11b2808d:1832646426</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-31 14:58:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>1d749e4f333e4b60a259878067342100</sys_id>
+        <sys_metadata>0279c4e347b98a1023fefe02d16d438b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1311516_loaner_v_vehicle_tracker</sys_name>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_parent display_value="x_1311516_loaner_v_vehicle_tracker">59d40acb473d0a1023fefe02d16d43dc</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_scope_delete display_value="">082d79490ac4468f81fd6de296a8af59</sys_scope_delete>
+        <sys_update_name>sys_security_acl_0279c4e347b98a1023fefe02d16d438b</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_0279c4e347b98a1023fefe02d16d438b">ca79c4e347b98a1023fefe02d16d438d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-31 14:58:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -7,22 +7,22 @@
         <hint>Loaner vehicle request and inventory management</hint>
         <name/>
         <order>200</order>
-        <roles>admin</roles>
+        <roles/>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>shu</sys_created_by>
         <sys_created_on>2024-04-30 21:44:09</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>bad54687473d0a1023fefe02d16d43fc</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Loaner Vehicle Request and Inventory</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
         <sys_update_name>sys_app_application_bad54687473d0a1023fefe02d16d43fc</sys_update_name>
-        <sys_updated_by>shu</sys_updated_by>
-        <sys_updated_on>2024-05-01 14:28:14</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-23 17:26:44</sys_updated_on>
         <title>Loaner Vehicle Request and Inventory</title>
         <view_name/>
     </sys_app_application>
