@@ -15,7 +15,7 @@
         <global>true</global>
         <isolate_script>true</isolate_script>
         <messages/>
-        <name>Date Validation</name>
+        <name>return date Validation</name>
         <order/>
         <published_ref/>
         <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
@@ -41,18 +41,19 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>e559e19b47c2c21023fefe02d16d43fa</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Date Validation</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>return date Validation</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
         <sys_update_name>catalog_script_client_e559e19b47c2c21023fefe02d16d43fa</sys_update_name>
-        <sys_updated_by>shu</sys_updated_by>
-        <sys_updated_on>2024-05-14 00:41:30</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-20 02:11:35</sys_updated_on>
         <table/>
         <type>onChange</type>
         <ui_type>10</ui_type>
+        <va_supported>true</va_supported>
         <variable_set/>
         <view/>
     </catalog_script_client>

@@ -1,29 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
     <sp_portal action="INSERT_OR_UPDATE">
-        <css_variables>$brand-primary:#428bca;
+        <css_variables>$brand-primary:#6cc8df;
 $body-bg:#fff;
-$state-success-text:#5cb85c;
+$state-success-text:#68bfbb;
 $sp-homepage-bg:#fff;
-$sp-navbar-divider-color:#ece4db;
+$sp-navbar-divider-color:#07d3f3;
 $text-color:#717171;
 $sp-logo-margin-y:.5rem;
-$navbar-inverse-link-hover-color:#e29578;
+$navbar-inverse-link-hover-color:#323525;
 $panel-bg:#ffffff;
-$brand-success:#5cb85c;
-$navbar-inverse-bg:#fff;
-$brand-warning:#f0ad4e;
+$brand-success:#bce1bc;
+$navbar-inverse-bg:#ffffff;
+$brand-warning:#ec8d0c;
 $brand-danger:#d9534f;
 $sp-tagline-color:#717171;
-$navbar-inverse-link-color:#03045e;
+$navbar-inverse-link-color:#087d3b;
 $brand-info:#5bc0de;
 $link-color:#428bca;
 $sp-logo-margin-x:.2rem;
-$btn-default-bg:#8daa5d;
+$btn-default-bg:#6cc8df;
 $text-muted:#271f1f;
 </css_variables>
         <dark_theme/>
         <default>false</default>
         <enable_ais>false</enable_ais>
+        <enable_certificate_based_authentication>false</enable_certificate_based_authentication>
         <enable_favorites>false</enable_favorites>
         <hide_portal_name>false</hide_portal_name>
         <homepage display_value="loaner_vehicle_home">1f22968047a6021023fefe02d16d437f</homepage>
@@ -46,14 +47,14 @@ $text-muted:#271f1f;
         <sys_created_by>shu</sys_created_by>
         <sys_created_on>2024-05-28 21:41:32</sys_created_on>
         <sys_id>ad9116c047a6021023fefe02d16d43e6</sys_id>
-        <sys_mod_count>90</sys_mod_count>
+        <sys_mod_count>130</sys_mod_count>
         <sys_name>Vehicle Warehouse</sys_name>
         <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
         <sys_update_name>sp_portal_ad9116c047a6021023fefe02d16d43e6</sys_update_name>
-        <sys_updated_by>shu</sys_updated_by>
-        <sys_updated_on>2024-05-29 16:29:54</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-21 18:13:43</sys_updated_on>
         <theme display_value="Vehicle Warehouse">d2d75e8847a6021023fefe02d16d4321</theme>
         <title>Vehicle Warehouse</title>
         <ts_index_group/>

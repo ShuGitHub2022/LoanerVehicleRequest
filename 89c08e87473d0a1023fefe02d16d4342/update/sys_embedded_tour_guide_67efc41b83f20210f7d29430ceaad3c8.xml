@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_guide">
+    <sys_embedded_tour_guide action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <additional_parameters/>
+        <autolaunch_order>0</autolaunch_order>
+        <context>lvri?id=loaner_vehicle_home&amp;gtd_portal_title=Vehicle Warehouse&amp;gtd_page_title=Loaner Vehicle Home</context>
+        <description/>
+        <has_concl>true</has_concl>
+        <has_intro>true</has_intro>
+        <name>Loaner Vehicle Request</name>
+        <options/>
+        <roles/>
+        <route_parameters/>
+        <sp_page display_value="loaner_vehicle_home">1f22968047a6021023fefe02d16d437f</sp_page>
+        <sp_portal display_value="Vehicle Warehouse">ad9116c047a6021023fefe02d16d43e6</sp_portal>
+        <status>published</status>
+        <sys_class_name>sys_embedded_tour_guide</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-20 00:50:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>67efc41b83f20210f7d29430ceaad3c8</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Loaner Vehicle Request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_update_name>sys_embedded_tour_guide_67efc41b83f20210f7d29430ceaad3c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-20 00:59:12</sys_updated_on>
+        <tour_id>TOUR0000009</tour_id>
+        <type>service_portal</type>
+    </sys_embedded_tour_guide>
+</record_update>

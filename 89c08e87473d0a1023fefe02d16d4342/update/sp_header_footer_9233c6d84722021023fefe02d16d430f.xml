@@ -42,17 +42,17 @@
         <sys_created_by>shu</sys_created_by>
         <sys_created_on>2024-05-29 15:16:27</sys_created_on>
         <sys_id>9233c6d84722021023fefe02d16d430f</sys_id>
-        <sys_mod_count>30</sys_mod_count>
+        <sys_mod_count>31</sys_mod_count>
         <sys_name>Warehouse Footer</sys_name>
         <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
         <sys_update_name>sp_header_footer_9233c6d84722021023fefe02d16d430f</sys_update_name>
-        <sys_updated_by>shu</sys_updated_by>
-        <sys_updated_on>2024-05-29 18:47:10</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-20 01:10:31</sys_updated_on>
         <template><![CDATA[<div class="container">
         <div class="column logo">
-            <img src="https://dev225936.service-now.com/x_1311516_loaner_v.loaner%20vehicle%20logo.jpg" alt="Logo" style="max-width: 100%; height: auto;">
+            <img src="https://dev262777.service-now.com/x_1311516_loaner_v.loaner%20vehicle%20logo.jpg" alt="Logo" style="max-width: 100%; height: auto;">
             <p>@ 2024 Vehicle Loaner LLC, All rights reserved..</p>
         </div>
         <div class="column contact">

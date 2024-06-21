@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_uc_can_contribute_mtom">
+    <kb_uc_can_contribute_mtom action="INSERT_OR_UPDATE">
+        <kb_knowledge_base display_value="Loaner Vehicle">eb54c8d783b20210f7d29430ceaad38a</kb_knowledge_base>
+        <sys_class_name>kb_uc_can_contribute_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-20 23:07:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f61245ef833a0210f7d29430ceaad35f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Vehicle.Any user for KB</sys_name>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_update_name>kb_uc_can_contribute_mtom_f61245ef833a0210f7d29430ceaad35f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-20 23:07:53</sys_updated_on>
+        <user_criteria display_value="Any user for KB">0f8d9007b58b8110f8779c9460b51456</user_criteria>
+    </kb_uc_can_contribute_mtom>
+</record_update>

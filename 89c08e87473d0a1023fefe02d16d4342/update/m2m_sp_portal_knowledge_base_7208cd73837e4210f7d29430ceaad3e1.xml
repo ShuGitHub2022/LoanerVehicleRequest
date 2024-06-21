@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_knowledge_base">
     <m2m_sp_portal_knowledge_base action="INSERT_OR_UPDATE">
         <active>true</active>
-        <kb_knowledge_base display_value="Warehouse Updates">fec22ec447e6021023fefe02d16d43f9</kb_knowledge_base>
+        <kb_knowledge_base display_value="Loaner Vehicle">eb54c8d783b20210f7d29430ceaad38a</kb_knowledge_base>
         <order>100</order>
         <sp_portal display_value="Vehicle Warehouse">ad9116c047a6021023fefe02d16d43e6</sp_portal>
         <sys_class_name>m2m_sp_portal_knowledge_base</sys_class_name>
-        <sys_created_by>shu</sys_created_by>
-        <sys_created_on>2024-05-28 23:55:34</sys_created_on>
-        <sys_id>b0707608472a021023fefe02d16d4386</sys_id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-21 18:12:19</sys_created_on>
+        <sys_id>7208cd73837e4210f7d29430ceaad3e1</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Warehouse Updates.Vehicle Warehouse</sys_name>
+        <sys_name>Loaner Vehicle.Vehicle Warehouse</sys_name>
         <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
-        <sys_update_name>m2m_sp_portal_knowledge_base_b0707608472a021023fefe02d16d4386</sys_update_name>
-        <sys_updated_by>shu</sys_updated_by>
-        <sys_updated_on>2024-05-28 23:55:34</sys_updated_on>
+        <sys_update_name>m2m_sp_portal_knowledge_base_7208cd73837e4210f7d29430ceaad3e1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-21 18:12:19</sys_updated_on>
     </m2m_sp_portal_knowledge_base>
 </record_update>
