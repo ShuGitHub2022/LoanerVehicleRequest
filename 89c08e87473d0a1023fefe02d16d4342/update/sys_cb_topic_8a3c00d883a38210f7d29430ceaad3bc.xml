@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic">
+    <sys_cb_topic action="INSERT_OR_UPDATE">
+        <applicability/>
+        <applicability_mode>query</applicability_mode>
+        <autopilot_topic>false</autopilot_topic>
+        <category/>
+        <channels/>
+        <connect_queue/>
+        <context_profiles/>
+        <description>Request a Loaner Vehicle through Virtual Agent.</description>
+        <dialog_acts_enabled>false</dialog_acts_enabled>
+        <expose_on_palette>false</expose_on_palette>
+        <flexible_conversation_switching>false</flexible_conversation_switching>
+        <foundational>false</foundational>
+        <graph>{
+  "graph_api_version": "1.0.65",
+  "goals": {
+    "primary": {
+      "id": "primary",
+      "trigger": {
+        "type": "primary"
+      },
+      "name": "primary",
+      "applicability": "",
+      "description": "",
+      "nodes": {
+        "15592667ee4a4cec8dbffa7a2d66a4a6": {
+          "id": "15592667ee4a4cec8dbffa7a2d66a4a6",
+          "stepType": "Start",
+          "name": "Start",
+          "greetingResponse": {
+            "mode": "simple",
+            "value": ""
+          }
+        },
+        "8fb5f0b8e7bb4b5bb00bc25e87d6d9b5": {
+          "id": "8fb5f0b8e7bb4b5bb00bc25e87d6d9b5",
+          "stepType": "TerminateGoal",
+          "name": "End",
+          "confirmationMessage": {
+            "mode": "simple",
+            "value": ""
+          }
+        },
+        "dd47312266ea41188a0dbc5bd7f176b3": {
+          "id": "dd47312266ea41188a0dbc5bd7f176b3",
+          "stepType": "BooleanPrompt",
+          "name": "request vehicle",
+          "prompt": {
+            "value": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Would you like to request a loaner vehicle?"
+                  }
+                ]
+              }
+            ],
+            "mode": "simple"
+          },
+          "confirmMessage": {
+            "value": "",
+            "mode": "simple"
+          },
+          "acknowledgeMsg": {
+            "value": "",
+            "mode": "simple"
+          },
+          "applicability": {
+            "value": "",
+            "mode": "query"
+          },
+          "skippable": {
+            "value": "",
+            "mode": "query"
+          },
+          "skipReprompt": {
+            "value": "",
+            "mode": "query"
+          },
+          "defaultValue": {
+            "value": "",
+            "mode": "simple"
+          },
+          "withNluUserInput": false,
+          "skipIfFulfilled": false,
+          "variableId": "a00dfa4c13734d2d8f702ac6c6fd597a",
+          "detailDescription": ""
+        },
+        "d9cf804536354239a0d7107224e35a99": {
+          "id": "d9cf804536354239a0d7107224e35a99",
+          "stepType": "Decision",
+          "name": "Decision"
+        },
+        "8a6751c91d794924b466628b842a27a9": {
+          "id": "8a6751c91d794924b466628b842a27a9",
+          "stepType": "LookupRecord",
+          "name": "requester",
+          "condition": {
+            "mode": "glide_query",
+            "value": "active=true"
+          },
+          "applicability": {
+            "value": "",
+            "mode": "query"
+          },
+          "variableId": "4c0a6f313719401ca5fa2d9fe597b000"
+        }
+      },
+      "edges": [
+        {
+          "id": "ecc412cb374a41f1acd1a3fd99d56a65",
+          "edgeType": "Branch",
+          "source": "d9cf804536354239a0d7107224e35a99",
+          "target": "8fb5f0b8e7bb4b5bb00bc25e87d6d9b5",
+          "sourcePort": "",
+          "targetPort": "",
+          "expression": {
+            "value": "vaInputs.request_vehicle=false",
+            "mode": "query"
+          },
+          "label": "false"
+        },
+        {
+          "id": "8203826ac837423a9042d3aabb9c4d46",
+          "edgeType": "Edge",
+          "source": "15592667ee4a4cec8dbffa7a2d66a4a6",
+          "target": "dd47312266ea41188a0dbc5bd7f176b3",
+          "sourcePort": "",
+          "targetPort": ""
+        },
+        {
+          "id": "1cc63b482de64dda94dba1dd9725b069",
+          "edgeType": "Edge",
+          "source": "dd47312266ea41188a0dbc5bd7f176b3",
+          "target": "d9cf804536354239a0d7107224e35a99",
+          "sourcePort": "",
+          "targetPort": ""
+        },
+        {
+          "id": "1ebb8bfca2c04955b81b50d05d072900",
+          "edgeType": "Branch",
+          "source": "d9cf804536354239a0d7107224e35a99",
+          "target": "8a6751c91d794924b466628b842a27a9",
+          "sourcePort": "",
+          "targetPort": "",
+          "expression": {
+            "value": "vaInputs.request_vehicle=true",
+            "mode": "query"
+          },
+          "label": "true"
+        },
+        {
+          "id": "f1ed89da2d844dc3b61f9bee36a0766f",
+          "edgeType": "Edge",
+          "source": "8a6751c91d794924b466628b842a27a9",
+          "target": "8fb5f0b8e7bb4b5bb00bc25e87d6d9b5",
+          "sourcePort": "",
+          "targetPort": ""
+        }
+      ]
+    }
+  },
+  "variables": {
+    "current-user": {
+      "category": "vaInputs",
+      "id": "current-user",
+      "label": "User",
+      "name": "user",
+      "table": "sys_user",
+      "varType": "reference"
+    },
+    "a00dfa4c13734d2d8f702ac6c6fd597a": {
+      "id": "a00dfa4c13734d2d8f702ac6c6fd597a",
+      "name": "request_vehicle",
+      "label": "Request Vehicle",
+      "varType": "boolean",
+      "secure": false,
+      "category": "vaInputs",
+      "nodeId": "dd47312266ea41188a0dbc5bd7f176b3",
+      "isHidden": false
+    },
+    "4c0a6f313719401ca5fa2d9fe597b000": {
+      "id": "4c0a6f313719401ca5fa2d9fe597b000",
+      "name": "requester",
+      "label": "Requester",
+      "varType": "reference",
+      "table": "sys_user",
+      "category": "vaInputs",
+      "nodeId": "8a6751c91d794924b466628b842a27a9",
+      "isHidden": false
+    }
+  }
+}</graph>
+        <key_phrases>Request a Loaner Vehicle,loaner vehicle,vehicle,truck,construction truck,need to loan a vehicle,loan a vehicle,loan vehicle,request a vehicle</key_phrases>
+        <library>false</library>
+        <live_agent>false</live_agent>
+        <model_type>nlu_keyword</model_type>
+        <modify_confirmation_enabled>false</modify_confirmation_enabled>
+        <name>Request a Loaner Vehicle</name>
+        <nlu_intent/>
+        <nlu_intent_label/>
+        <nlu_model/>
+        <nlu_model_label/>
+        <nlu_provider/>
+        <palette_label/>
+        <roles/>
+        <root_topic_id/>
+        <secure_custom_input_control>false</secure_custom_input_control>
+        <source_topic_id/>
+        <sys_class_name>sys_cb_topic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-17 23:39:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>8a3c00d883a38210f7d29430ceaad3bc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Request a Loaner Vehicle</sys_name>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_update_name>sys_cb_topic_8a3c00d883a38210f7d29430ceaad3bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-17 23:42:58</sys_updated_on>
+        <triggerable_by_notification>false</triggerable_by_notification>
+        <type>STANDARD</type>
+    </sys_cb_topic>
+    <sys_translated_text action="delete_multiple" query="documentkey=8a3c00d883a38210f7d29430ceaad3bc"/>
+</record_update>
