@@ -42,7 +42,7 @@
         <update_guid_history>f7069db79a710e10c836d29ffa786167:1346652450</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_1311516_loaner_v_demo_table.x_1311516_loaner_v.demo_table_user">4808d97b47710e1023fefe02d16d434d</sys_audit_delete>
+        <sys_audit_delete display_value="">4808d97b47710e1023fefe02d16d434d</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>shu</sys_created_by>
         <sys_created_on>2024-05-03 02:19:15</sys_created_on>

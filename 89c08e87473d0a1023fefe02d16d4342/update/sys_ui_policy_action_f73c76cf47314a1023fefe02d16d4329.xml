@@ -3,6 +3,8 @@
         <cleared>false</cleared>
         <disabled>ignore</disabled>
         <field>location</field>
+        <field_message/>
+        <field_message_type/>
         <mandatory>true</mandatory>
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>shu</sys_created_by>
@@ -18,6 +20,9 @@
         <sys_updated_on>2024-05-01 01:42:11</sys_updated_on>
         <table>x_1311516_loaner_v_vehicle_tracker</table>
         <ui_policy display_value="if Vehicle Status is Pending Release or Out on Field then make Assigned to, Location, Date requested,  Expected Return Data Mandatory">53dbfa8f47314a1023fefe02d16d438b</ui_policy>
+        <value/>
+        <value_action/>
         <visible>ignore</visible>
     </sys_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=f73c76cf47314a1023fefe02d16d4329"/>
 </record_update>

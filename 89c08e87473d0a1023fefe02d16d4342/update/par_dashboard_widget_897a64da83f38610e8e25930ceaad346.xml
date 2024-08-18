@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">aa2c4d06c2f34610832fb8db601af1a6</canvas>
+        <component display_value="Calendar Report">259e0221ff18a75c5f5f0fb28fa5d32f</component>
+        <component_props>{"table":"x_1311516_loaner_v_vehicle_tracker","reportSource":"","encodedQuery":"tracker_status=open","startDateField":"date_required","endDateField":"expected_return_date","eventDisplayFields":"number,date_required,expected_return_date","componentTitle":"Vehicle Tracker Calendar","followFilters":true,"showFilterOverview":true,"showDescription":false,"componentDescription":"","viewType":"WEEK","eventColor":"","filterConfigurations":"@state.parFilters","noDebounce":"","selectedElements":[]}</component_props>
+        <h>25</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 17:14:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>897a64da83f38610e8e25930ceaad346</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_update_name>par_dashboard_widget_897a64da83f38610e8e25930ceaad346</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-05 20:27:49</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>41</y>
+    </par_dashboard_widget>
+</record_update>

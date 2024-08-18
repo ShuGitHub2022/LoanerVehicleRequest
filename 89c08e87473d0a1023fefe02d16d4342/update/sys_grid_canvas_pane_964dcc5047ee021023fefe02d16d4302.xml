@@ -2,7 +2,7 @@
     <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
         <grid_canvas display_value="PA Loaner Vehicle Dashb - New Tab">992d809047ee021023fefe02d16d4316</grid_canvas>
         <height>10</height>
-        <portal_widget display_value="Created 2024-05-28 23:41:10">5a4d8c5047ee021023fefe02d16d43ff</portal_widget>
+        <portal_widget display_value="">5a4d8c5047ee021023fefe02d16d43ff</portal_widget>
         <posx>0</posx>
         <posy>20</posy>
         <sys_class_name>sys_grid_canvas_pane</sys_class_name>

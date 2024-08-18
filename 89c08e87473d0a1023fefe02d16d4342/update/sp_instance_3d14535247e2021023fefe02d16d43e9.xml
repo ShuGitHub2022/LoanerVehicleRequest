@@ -10,7 +10,7 @@
         <roles/>
         <short_description/>
         <size>md</size>
-        <sp_column display_value="2">c17e9420476e021023fefe02d16d4371</sp_column>
+        <sp_column display_value="">c17e9420476e021023fefe02d16d4371</sp_column>
         <sp_widget display_value="Virtual Agent Service Portal Widget">20c6031e733013004ab2369f2ef6a7c7</sp_widget>
         <sys_class_name>sp_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>

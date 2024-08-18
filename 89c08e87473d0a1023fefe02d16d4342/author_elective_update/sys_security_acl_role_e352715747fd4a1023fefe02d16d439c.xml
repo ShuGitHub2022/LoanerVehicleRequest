@@ -42,7 +42,7 @@
         <update_guid_history>98c279570dfd4a10c53bb37ac78985f3:1939082195</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value=".iva_user">b038886347b98a1023fefe02d16d4334</sys_audit_delete>
+        <sys_audit_delete display_value="">b038886347b98a1023fefe02d16d4334</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>shu</sys_created_by>
         <sys_created_on>2024-05-02 01:52:06</sys_created_on>
@@ -52,7 +52,7 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>.iva_user</sys_name>
         <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
-        <sys_parent display_value="x_1311516_loaner_v_loaner_vehicle">be52b15747fd4a1023fefe02d16d43bc</sys_parent>
+        <sys_parent display_value="">be52b15747fd4a1023fefe02d16d43bc</sys_parent>
         <sys_policy/>
         <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
         <sys_scope_delete display_value="">082d79490ac4468f81fd6de296a8af59</sys_scope_delete>

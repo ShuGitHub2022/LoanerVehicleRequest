@@ -108,7 +108,7 @@
         <update_guid_history>4c369e0887a60210b26a2c2340b6ba3a:-1125761772,93265e08e6a602109cc7a9fd2597bfd0:-1673625707,b6265e08c6a6021017d48a26acb69f94:2073477654,95649a84b7a602106e11fb29f61447d6:1525613719,672292044aa602100cb1959bfd67c8a8:2073477654</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="My Service Requests">f8369e0847a6021023fefe02d16d43a2</sys_audit_delete>
+        <sys_audit_delete display_value="">f8369e0847a6021023fefe02d16d43a2</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>shu</sys_created_by>
         <sys_created_on>2024-05-28 22:00:53</sys_created_on>

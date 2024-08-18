@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="DELETE">
+        <macroponent_config>{
+    "029f04e053610110ac9bddeeff7b1294": {
+        "activityLogs": null,
+        "detailsContext": null,
+        "fields": null,
+        "screen": null,
+        "userPrefs": null,
+        "view": "workspace-loaner-vehicle-request-workspace-0"
+    }
+}</macroponent_config>
+        <screen display_value="Vehicle Tracker Record Page">b96c454683f34610e8e25930ceaad394</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 19:03:48</sys_created_on>
+        <sys_id>51109ab4830c1610e8e25930ceaad3ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_51109ab4830c1610e8e25930ceaad3ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 19:03:48</sys_updated_on>
+    </sys_uib_screen_test_values>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</application>
+        <file_path/>
+        <instance_id>c210135f1bb94298e84d2f8dee4bcb39</instance_id>
+        <instance_name>dev262777</instance_name>
+        <name>sys_uib_screen_test_values_51109ab4830c1610e8e25930ceaad3ad</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values"><sys_uib_screen_test_values action="INSERT_OR_UPDATE"><macroponent_config>{
+    "029f04e053610110ac9bddeeff7b1294": {
+        "activityLogs": null,
+        "detailsContext": null,
+        "fields": null,
+        "screen": null,
+        "userPrefs": null,
+        "view": "workspace-loaner-vehicle-request-workspace-0"
+    }
+}</macroponent_config><screen display_value="Vehicle Tracker Record Page">b96c454683f34610e8e25930ceaad394</screen><sys_class_name>sys_uib_screen_test_values</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-13 19:03:48</sys_created_on><sys_id>51109ab4830c1610e8e25930ceaad3ad</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope><sys_update_name>sys_uib_screen_test_values_51109ab4830c1610e8e25930ceaad3ad</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-13 19:03:48</sys_updated_on></sys_uib_screen_test_values></record_update>]]></payload>
+        <payload_hash>-474527308</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>9c4fb3c783320210f7d29430ceaad3f9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 19:03:48</sys_created_on>
+        <sys_id>1910d2f4830c1610e8e25930ceaad323</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1914d1fffa20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 19:03:48</sys_updated_on>
+        <type>UIB Screen Test Values</type>
+        <update_guid>d910d2f44a0c16102cd0e38b1788dc22</update_guid>
+        <update_guid_history>d910d2f44a0c16102cd0e38b1788dc22:-474527308</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 19:09:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_uib_screen_test_values">sys_uib_screen_test_values</sys_db_object>
+        <sys_id>090a0b48d5404ecb8a6afbd10f1fc741</sys_id>
+        <sys_metadata>51109ab4830c1610e8e25930ceaad3ad</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_scope_delete display_value="">082d79490ac4468f81fd6de296a8af59</sys_scope_delete>
+        <sys_update_name>sys_uib_screen_test_values_51109ab4830c1610e8e25930ceaad3ad</sys_update_name>
+        <sys_update_version display_value="sys_uib_screen_test_values_51109ab4830c1610e8e25930ceaad3ad">1910d2f4830c1610e8e25930ceaad323</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 19:09:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

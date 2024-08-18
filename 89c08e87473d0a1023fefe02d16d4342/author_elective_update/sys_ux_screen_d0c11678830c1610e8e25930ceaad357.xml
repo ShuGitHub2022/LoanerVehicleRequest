@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="DELETE">
+        <active>true</active>
+        <app_config display_value="Loaner Vehicle Request workspace App Config">fe2c4d06b5f346106359dbb56453b6ad</app_config>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <event_mappings/>
+        <macroponent display_value="Standard record page">88c11678830c1610e8e25930ceaad33e</macroponent>
+        <macroponent_config/>
+        <name>Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="record">3bb15e38830c1610e8e25930ceaad311</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 19:11:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d0c11678830c1610e8e25930ceaad357</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_update_name>sys_ux_screen_d0c11678830c1610e8e25930ceaad357</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 19:11:06</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="DELETE" query="documentkey=d0c11678830c1610e8e25930ceaad357"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</application>
+        <file_path/>
+        <instance_id>c210135f1bb94298e84d2f8dee4bcb39</instance_id>
+        <instance_name>dev262777</instance_name>
+        <name>sys_ux_screen_d0c11678830c1610e8e25930ceaad357</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config display_value="Loaner Vehicle Request workspace App Config">fe2c4d06b5f346106359dbb56453b6ad</app_config><description/><disable_auto_reflow>false</disable_auto_reflow><event_mappings/><macroponent display_value="Standard record page">88c11678830c1610e8e25930ceaad33e</macroponent><macroponent_config/><name>Default</name><order>0</order><parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent><required_translations>[ ]</required_translations><rollback_screen/><screen_condition/><screen_type display_value="record">3bb15e38830c1610e8e25930ceaad311</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-13 19:11:06</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d0c11678830c1610e8e25930ceaad357</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Default</sys_name><sys_overrides/><sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope><sys_update_name>sys_ux_screen_d0c11678830c1610e8e25930ceaad357</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-13 19:11:06</sys_updated_on></sys_ux_screen><sys_translated_text action="delete_multiple" query="documentkey=d0c11678830c1610e8e25930ceaad357"/></record_update>]]></payload>
+        <payload_hash>-1873655068</payload_hash>
+        <record_name>Default</record_name>
+        <reverted_from/>
+        <source>9c4fb3c783320210f7d29430ceaad3f9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 19:11:06</sys_created_on>
+        <sys_id>d4c11678830c1610e8e25930ceaad35a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1914d26adf00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 19:11:06</sys_updated_on>
+        <type>UX Screen</type>
+        <update_guid>d8c11678060c16105499fcb4b4ad5859</update_guid>
+        <update_guid_history>d8c11678060c16105499fcb4b4ad5859:-1873655068</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 19:14:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen">sys_ux_screen</sys_db_object>
+        <sys_id>020357444806441c80083d29c14387c9</sys_id>
+        <sys_metadata>d0c11678830c1610e8e25930ceaad357</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default</sys_name>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_scope_delete display_value="">082d79490ac4468f81fd6de296a8af59</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_d0c11678830c1610e8e25930ceaad357</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_d0c11678830c1610e8e25930ceaad357">d4c11678830c1610e8e25930ceaad35a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 19:14:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

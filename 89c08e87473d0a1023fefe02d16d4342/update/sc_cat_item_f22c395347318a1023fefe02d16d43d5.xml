@@ -2,11 +2,13 @@
     <sc_cat_item action="INSERT_OR_UPDATE">
         <access_type>restricted</access_type>
         <active>true</active>
+        <additional_review>false</additional_review>
         <availability>on_desktop</availability>
         <billable>false</billable>
         <category display_value="Loaner Vehicle">f9dc830747b14a1023fefe02d16d435b</category>
-        <checked_out/>
+        <checked_out>false</checked_out>
         <cost>0</cost>
+        <create_universal_request>false</create_universal_request>
         <custom_cart/>
         <delivery_plan/>
         <delivery_plan_script/>
@@ -22,6 +24,7 @@
         <ignore_price>true</ignore_price>
         <image/>
         <location/>
+        <make_item_non_conversational>false</make_item_non_conversational>
         <mandatory_attachment>false</mandatory_attachment>
         <meta/>
         <mobile_hide_price>false</mobile_hide_price>
@@ -60,7 +63,7 @@
         <short_description> Request Loaner Vehicle </short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
-        <state/>
+        <state>published</state>
         <sys_class_name>sc_cat_item</sys_class_name>
         <sys_created_by>shu</sys_created_by>
         <sys_created_on>2024-05-01 15:41:29</sys_created_on>

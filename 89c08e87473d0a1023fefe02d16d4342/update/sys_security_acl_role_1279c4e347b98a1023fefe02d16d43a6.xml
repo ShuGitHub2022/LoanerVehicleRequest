@@ -14,6 +14,5 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-05-02 01:57:40</sys_updated_on>
         <sys_user_role display_value="x_1311516_loaner_v.iva_user" name="x_1311516_loaner_v.iva_user">fd502a0f47bd0a1023fefe02d16d435b</sys_user_role>
-        <transaction_id/>
     </sys_security_acl_role>
 </record_update>

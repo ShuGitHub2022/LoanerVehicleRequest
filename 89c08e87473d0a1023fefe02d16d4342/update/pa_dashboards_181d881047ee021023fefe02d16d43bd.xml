@@ -10,12 +10,13 @@
         <managed_breakdown/>
         <managed_publisher/>
         <name>Loaner Vehicle Dashboard</name>
+        <no_bulk_migration>false</no_bulk_migration>
         <no_tabs>false</no_tabs>
         <notification_link_label/>
         <notification_link_url/>
         <notification_text/>
         <order/>
-        <owner display_value="Shu Liu">7c0bb7d74701021023fefe02d16d433d</owner>
+        <owner display_value="">7c0bb7d74701021023fefe02d16d433d</owner>
         <restrict_to_roles/>
         <role_override>true</role_override>
         <roles/>

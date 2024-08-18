@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" db_object_id="ddd40acb473d0a1023fefe02d16d43da" label="Vehicle Tracker" max_length="40" name="x_1311516_loaner_v_vehicle_tracker" type="collection">
+    <element audit="true" db_object_id="ddd40acb473d0a1023fefe02d16d43da" label="Vehicle Tracker" max_length="40" name="x_1311516_loaner_v_vehicle_tracker" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Delivery information" max_length="1500" name="delivery_information" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Return Notes" max_length="1500" name="return_notes" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Tracker Status" mandatory="true" max_length="40" name="tracker_status" type="choice">

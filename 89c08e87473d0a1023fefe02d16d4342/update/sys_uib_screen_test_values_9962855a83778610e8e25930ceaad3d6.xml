@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+    "table": "task",
+    "sysId": "3f39b1568db4021087de63ac7f1f00fa",
+    "query": "",
+    "extraParams": "",
+    "views": "",
+    "selectedTabIndex": ""
+}</macroponent_config>
+        <screen display_value="record">0d62855a83778610e8e25930ceaad3d2</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 18:59:32</sys_created_on>
+        <sys_id>9962855a83778610e8e25930ceaad3d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_9962855a83778610e8e25930ceaad3d6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-05 18:59:32</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>

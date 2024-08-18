@@ -97,7 +97,7 @@
         <update_guid_history>399c83074eb14a10ba38f02f630ee659:-602792488,7d9c47c328b14a100b64e54ad927a994:-1420874626,df8c4fc350b14a10188da774d2f4286b:57038779</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Loaner Vehicle">99fdcf4747b14a1023fefe02d16d4394</sys_audit_delete>
+        <sys_audit_delete display_value="">99fdcf4747b14a1023fefe02d16d4394</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>shu</sys_created_by>
         <sys_created_on>2024-05-01 02:59:10</sys_created_on>

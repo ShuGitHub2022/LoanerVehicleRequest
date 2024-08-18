@@ -41,7 +41,7 @@
         <update_guid_history>6b4f8fc763b14a10c8b7d7bd293c5339:1789836749,a74f8fc767b14a10d310158522b2712e:1029570471</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Loaner Vehicle.Request Loaner Vehicle">5ca04ad747318a1023fefe02d16d43d8</sys_audit_delete>
+        <sys_audit_delete display_value="">5ca04ad747318a1023fefe02d16d43d8</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>shu</sys_created_by>
         <sys_created_on>2024-05-01 15:59:48</sys_created_on>

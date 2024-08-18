@@ -65,7 +65,7 @@
         <update_guid_history>ab6d8287c67d0a10e3ff86601b4a28ab:-764009339</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="loaner vehicle import">a1c7a24747fd0a1023fefe02d16d43bf</sys_audit_delete>
+        <sys_audit_delete display_value="">a1c7a24747fd0a1023fefe02d16d43bf</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>shu</sys_created_by>
         <sys_created_on>2024-05-01 00:12:20</sys_created_on>

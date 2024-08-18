@@ -41,7 +41,7 @@
         <update_guid_history>eb4f8fc781b14a106538c4565acec629:-1757307477,af4f8fc7a4b14a10b2a26af49cb39223:-611087394</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Service Catalog.Request Loaner Vehicle">9ca04ad747318a1023fefe02d16d43bf</sys_audit_delete>
+        <sys_audit_delete display_value="">9ca04ad747318a1023fefe02d16d43bf</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>shu</sys_created_by>
         <sys_created_on>2024-05-01 15:59:48</sys_created_on>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="4e6cd6f4834c1610e8e25930ceaad33c Item Stream">0e6cd6f4834c1610e8e25930ceaad340</item_stream>
+        <segment display_value="Available Loaner Vehicle Item Stream Segment">8e6cd6f4834c1610e8e25930ceaad33f</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 19:57:38</sys_created_on>
+        <sys_id>466cd6f4834c1610e8e25930ceaad35a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_466cd6f4834c1610e8e25930ceaad35a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 19:57:38</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

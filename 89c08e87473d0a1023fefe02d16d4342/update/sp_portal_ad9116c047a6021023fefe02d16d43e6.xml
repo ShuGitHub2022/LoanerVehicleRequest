@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
     <sp_portal action="INSERT_OR_UPDATE">
+        <alternate_portal/>
         <css_variables>$brand-primary:#6cc8df;
 $body-bg:#fff;
 $state-success-text:#68bfbb;
@@ -29,6 +30,7 @@ $text-muted:#271f1f;
         <hide_portal_name>false</hide_portal_name>
         <homepage display_value="loaner_vehicle_home">1f22968047a6021023fefe02d16d437f</homepage>
         <icon/>
+        <inactive>false</inactive>
         <kb_knowledge_base/>
         <kb_knowledge_page/>
         <login_page/>

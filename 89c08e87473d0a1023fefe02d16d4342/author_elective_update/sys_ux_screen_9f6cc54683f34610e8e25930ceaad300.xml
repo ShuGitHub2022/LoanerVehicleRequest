@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="DELETE">
+        <active>true</active>
+        <app_config display_value="Loaner Vehicle Request workspace App Config">fe2c4d06b5f346106359dbb56453b6ad</app_config>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <event_mappings>[
+    
+]</event_mappings>
+        <macroponent display_value="Vehicle Servicing">366c854683f34610e8e25930ceaad3fc</macroponent>
+        <macroponent_config>{
+    "bare": {
+        "type": "JSON_LITERAL",
+        "value": true
+    },
+    "headerLevel": {
+        "type": "JSON_LITERAL",
+        "value": "1"
+    },
+    "headingOnlyVisibleToScreenReaders": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "interceptNotifications": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "label": {
+        "type": "TRANSLATION_LITERAL",
+        "value": {
+            "code": null,
+            "comment": "",
+            "message": ""
+        }
+    },
+    "propagateNotifications": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "scrollable": {
+        "type": "JSON_LITERAL",
+        "value": "y"
+    }
+}</macroponent_config>
+        <name>Vehicle Servicing Record Page</name>
+        <order>100</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition>table=x_1311516_loaner_v_vehicle_servicing</screen_condition>
+        <screen_type display_value="Record">1a2c4d0649f34610b75704bcf8d19364</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 01:04:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9f6cc54683f34610e8e25930ceaad300</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vehicle Servicing Record Page</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_update_name>sys_ux_screen_9f6cc54683f34610e8e25930ceaad300</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-05 01:04:53</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="DELETE" query="documentkey=9f6cc54683f34610e8e25930ceaad300"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</application>
+        <file_path/>
+        <instance_id>c210135f1bb94298e84d2f8dee4bcb39</instance_id>
+        <instance_name>dev262777</instance_name>
+        <name>sys_ux_screen_9f6cc54683f34610e8e25930ceaad300</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config display_value="Loaner Vehicle Request workspace App Config">fe2c4d06b5f346106359dbb56453b6ad</app_config><description/><disable_auto_reflow>false</disable_auto_reflow><event_mappings>[
+    
+]</event_mappings><macroponent display_value="Vehicle Servicing">366c854683f34610e8e25930ceaad3fc</macroponent><macroponent_config>{
+    "bare": {
+        "type": "JSON_LITERAL",
+        "value": true
+    },
+    "headerLevel": {
+        "type": "JSON_LITERAL",
+        "value": "1"
+    },
+    "headingOnlyVisibleToScreenReaders": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "interceptNotifications": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "label": {
+        "type": "TRANSLATION_LITERAL",
+        "value": {
+            "code": null,
+            "comment": "",
+            "message": ""
+        }
+    },
+    "propagateNotifications": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "scrollable": {
+        "type": "JSON_LITERAL",
+        "value": "y"
+    }
+}</macroponent_config><name>Vehicle Servicing Record Page</name><order>100</order><parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent><required_translations>[ ]</required_translations><rollback_screen/><screen_condition>table=x_1311516_loaner_v_vehicle_servicing</screen_condition><screen_type display_value="Record">1a2c4d0649f34610b75704bcf8d19364</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-05 01:04:53</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9f6cc54683f34610e8e25930ceaad300</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Vehicle Servicing Record Page</sys_name><sys_overrides/><sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope><sys_update_name>sys_ux_screen_9f6cc54683f34610e8e25930ceaad300</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-05 01:04:53</sys_updated_on></sys_ux_screen><sys_translated_text action="delete_multiple" query="documentkey=9f6cc54683f34610e8e25930ceaad300"/></record_update>]]></payload>
+        <payload_hash>684425940</payload_hash>
+        <record_name>Vehicle Servicing Record Page</record_name>
+        <reverted_from/>
+        <source>9c4fb3c783320210f7d29430ceaad3f9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 01:04:53</sys_created_on>
+        <sys_id>536cc54683f34610e8e25930ceaad303</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191201159930000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-05 01:04:53</sys_updated_on>
+        <type>UX Screen</type>
+        <update_guid>576cc54656f346109d424b78d4306402</update_guid>
+        <update_guid_history>576cc54656f346109d424b78d4306402:684425940</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 18:21:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen">sys_ux_screen</sys_db_object>
+        <sys_id>446455d305b443ea932b1aa94d1756f1</sys_id>
+        <sys_metadata>9f6cc54683f34610e8e25930ceaad300</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vehicle Servicing Record Page</sys_name>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_scope_delete display_value="">082d79490ac4468f81fd6de296a8af59</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_9f6cc54683f34610e8e25930ceaad300</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_9f6cc54683f34610e8e25930ceaad300">536cc54683f34610e8e25930ceaad303</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-05 18:21:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

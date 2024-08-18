@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="b0ffe49283378610e8e25930ceaad366" sys_domain="global" table="x_1311516_loaner_v_vehicle_tracker" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-05 17:38:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>11ffe49283378610e8e25930ceaad36b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1311516_loaner_v_vehicle_tracker" name="x_1311516_loaner_v_vehicle_tracker" sys_domain="global" view="4abf609245378610ee558d8bf8456c07">b0ffe49283378610e8e25930ceaad366</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1311516_loaner_v_vehicle_tracker" sys_domain="global" view="4abf609245378610ee558d8bf8456c07">ddffe49283378610e8e25930ceaad369</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-05 17:38:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-05 17:39:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3dff289283378610e8e25930ceaad309</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1311516_loaner_v_vehicle_tracker" name="x_1311516_loaner_v_vehicle_tracker" sys_domain="global" view="4abf609245378610ee558d8bf8456c07">b0ffe49283378610e8e25930ceaad366</sys_ui_form>
+            <sys_ui_section caption="Return Details" display_value="Return Details" name="x_1311516_loaner_v_vehicle_tracker" sys_domain="global" view="4abf609245378610ee558d8bf8456c07">f9ff289283378610e8e25930ceaad308</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-05 17:39:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-05 17:39:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ceff289283378610e8e25930ceaad30c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1311516_loaner_v_vehicle_tracker" name="x_1311516_loaner_v_vehicle_tracker" sys_domain="global" view="4abf609245378610ee558d8bf8456c07">b0ffe49283378610e8e25930ceaad366</sys_ui_form>
+            <sys_ui_section caption="Activity" display_value="Activity" name="x_1311516_loaner_v_vehicle_tracker" sys_domain="global" view="4abf609245378610ee558d8bf8456c07">ceff289283378610e8e25930ceaad30b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-05 17:39:03</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1311516_loaner_v_vehicle_tracker</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-05 17:38:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b0ffe49283378610e8e25930ceaad366</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1311516_loaner_v_vehicle_tracker</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+            <sys_update_name>sys_ui_form_sections_b0ffe49283378610e8e25930ceaad366</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-05 17:38:57</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Loaner Vehicle Servicing Workspace 0" name="workspace-loaner-vehicle-servicing-workspace-0">4abf609245378610ee558d8bf8456c07</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

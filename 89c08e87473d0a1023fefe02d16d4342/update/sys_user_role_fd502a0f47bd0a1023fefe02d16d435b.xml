@@ -7,7 +7,6 @@
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_1311516_loaner_v.iva_user</name>
-        <requires_subscription>-1</requires_subscription>
         <scoped_admin>false</scoped_admin>
         <suffix>iva_user</suffix>
         <sys_class_name>sys_user_role</sys_class_name>

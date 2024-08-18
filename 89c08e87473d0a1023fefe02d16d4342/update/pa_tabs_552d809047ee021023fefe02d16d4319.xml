@@ -2,7 +2,7 @@
     <pa_tabs action="INSERT_OR_UPDATE">
         <canvas_page display_value="PA Loaner Vehicle Dashb - New Tab">992d809047ee021023fefe02d16d4316</canvas_page>
         <name>Loaner Vehicle Dashb - New Tab</name>
-        <page display_value="PA Loaner Vehicle Dashb - New Tab">dd2d041047ee021023fefe02d16d430e</page>
+        <page display_value="">dd2d041047ee021023fefe02d16d430e</page>
         <sys_class_name>pa_tabs</sys_class_name>
         <sys_created_by>shu</sys_created_by>
         <sys_created_on>2024-05-29 06:40:33</sys_created_on>

@@ -3,6 +3,8 @@
         <cleared>false</cleared>
         <disabled>false</disabled>
         <field>actual_return_date</field>
+        <field_message/>
+        <field_message_type/>
         <mandatory>true</mandatory>
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>shu</sys_created_by>
@@ -18,6 +20,9 @@
         <sys_updated_on>2024-05-01 01:46:30</sys_updated_on>
         <table>x_1311516_loaner_v_vehicle_tracker</table>
         <ui_policy display_value="If Vehicle Status is Returned for Inspection set Actual Return Date, Return Vehicle Status and Return Notes Editable and Mandatory">4dfcf6cf47314a1023fefe02d16d43a4</ui_policy>
+        <value/>
+        <value_action/>
         <visible>ignore</visible>
     </sys_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=1d3dfa0347714a1023fefe02d16d431e"/>
 </record_update>

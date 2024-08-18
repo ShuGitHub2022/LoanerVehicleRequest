@@ -42,7 +42,7 @@
         <update_guid_history>853d9f97d8120210f648b9ba3919f63e:-1489288233</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_1311516_loaner_v_vehicle_tracker.x_1311516_loaner_v.iva_service">1b3158894722021023fefe02d16d4393</sys_audit_delete>
+        <sys_audit_delete display_value="">1b3158894722021023fefe02d16d4393</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-05-31 14:53:54</sys_created_on>

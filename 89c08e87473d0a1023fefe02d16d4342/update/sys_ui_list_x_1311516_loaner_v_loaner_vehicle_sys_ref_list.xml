@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_1311516_loaner_v_loaner_vehicle" element="NULL" name="x_1311516_loaner_v_loaner_vehicle" parent="NULL" relationship="NULL" sys_domain="global" view="e384f0717d31311076daf29f52070d7d">69dc9b164712021023fefe02d16d4364</list_id>
+            <list_id display_value="x_1311516_loaner_v_loaner_vehicle" element="NULL" name="x_1311516_loaner_v_loaner_vehicle" parent="NULL" relationship="NULL" sys_domain="global" view="632ca1528d30021087de63ac7f1f0028">69dc9b164712021023fefe02d16d4364</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -18,7 +18,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>status</element>
-            <list_id display_value="x_1311516_loaner_v_loaner_vehicle" element="NULL" name="x_1311516_loaner_v_loaner_vehicle" parent="NULL" relationship="NULL" sys_domain="global" view="e384f0717d31311076daf29f52070d7d">69dc9b164712021023fefe02d16d4364</list_id>
+            <list_id display_value="x_1311516_loaner_v_loaner_vehicle" element="NULL" name="x_1311516_loaner_v_loaner_vehicle" parent="NULL" relationship="NULL" sys_domain="global" view="632ca1528d30021087de63ac7f1f0028">69dc9b164712021023fefe02d16d4364</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -33,7 +33,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>vehicle_description</element>
-            <list_id display_value="x_1311516_loaner_v_loaner_vehicle" element="NULL" name="x_1311516_loaner_v_loaner_vehicle" parent="NULL" relationship="NULL" sys_domain="global" view="e384f0717d31311076daf29f52070d7d">69dc9b164712021023fefe02d16d4364</list_id>
+            <list_id display_value="x_1311516_loaner_v_loaner_vehicle" element="NULL" name="x_1311516_loaner_v_loaner_vehicle" parent="NULL" relationship="NULL" sys_domain="global" view="632ca1528d30021087de63ac7f1f0028">69dc9b164712021023fefe02d16d4364</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
@@ -48,7 +48,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>image</element>
-            <list_id display_value="x_1311516_loaner_v_loaner_vehicle" element="NULL" name="x_1311516_loaner_v_loaner_vehicle" parent="NULL" relationship="NULL" sys_domain="global" view="e384f0717d31311076daf29f52070d7d">69dc9b164712021023fefe02d16d4364</list_id>
+            <list_id display_value="x_1311516_loaner_v_loaner_vehicle" element="NULL" name="x_1311516_loaner_v_loaner_vehicle" parent="NULL" relationship="NULL" sys_domain="global" view="632ca1528d30021087de63ac7f1f0028">69dc9b164712021023fefe02d16d4364</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
@@ -85,7 +85,7 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-05-23 16:40:08</sys_updated_on>
             <sys_user/>
-            <view display_value="Reference List" name="sys_ref_list">e384f0717d31311076daf29f52070d7d</view>
+            <view display_value="Reference List" name="sys_ref_list">632ca1528d30021087de63ac7f1f0028</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>
