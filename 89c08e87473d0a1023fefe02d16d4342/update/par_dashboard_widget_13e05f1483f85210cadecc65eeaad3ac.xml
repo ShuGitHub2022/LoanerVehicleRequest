@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">6e6dc790a0f85210e39936807f543d5e</canvas>
+        <component display_value="Semi donut">3809c6583b8dd540a0bf735ed493bae2</component>
+        <component_props>{"selectedElements":[],"configVersion":"23.0.0-ci-SNAPSHOT","showDataLabels":true,"dataLabelsType":"both","truncationType":"end","showRegister":true,"registerPosition":"bottom","registerOrientation":"horizontal","showRegisterOnSameLine":false,"showRegisterValue":false,"legendHorizontalAlignment":"center","legendExpandToFit":false,"showRegisterPercentage":false,"colorConfig":{"type":"default"},"newReporting":false,"additionalGroupByConfig":[],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Loaner vehicle Catalog","sourceType":"table","tableOrViewName":"x_1311516_loaner_v_loaner_vehicle","filterQuery":"","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4XzEzMTE1MTZfbG9hbmVyX3ZfbG9hbmVyX3ZlaGljbGUxNzI2Njc5OTM2MDI3","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"contextMenuActions":[],"headerTitle":"Loaner Vehicle Catalog by Status","headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"showAdditionalGroupBySelector":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4XzEzMTE1MTZfbG9hbmVyX3ZfbG9hbmVyX3ZlaGljbGUxNzI2Njc5OTM2MDI3","id":"ZEdGaWJHVjRYekV6TVRFMU1UWmZiRzloYm1WeVgzWmZiRzloYm1WeVgzWmxhR2xqYkdVeE56STJOamM1T1RNMk1ESTMxNzI2Njc5OTM3NjU4","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":[{"groupBy":[{"dataSource":"dGFibGV4XzEzMTE1MTZfbG9hbmVyX3ZfbG9hbmVyX3ZlaGljbGUxNzI2Njc5OTM2MDI3","groupByField":"status","isRange":false,"isChoice":true,"isPaBucket":false}],"maxNumberOfGroups":"ALL","numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"disableRanges":false}],"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"showTotalValue":true,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"showDataTable":false,"enableCustomEmptyState":false,"componentId":"el5vivkz","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","refreshFrequency":null,"hideDevSettings":false,"configPropModifiers":{},"filterConfigurations":"@state.parFilters","showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":"previous","period":"M","useDataCache":false,"cacheExpirationTime":0,"showCacheTime":true,"dateFormat":"default","showRefresh":true,"id":"showDataLabels","value":true,"noDebounce":true,"propLabel":"Show data labels"}</component_props>
+        <h>12</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-18 17:17:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>13e05f1483f85210cadecc65eeaad3ac</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_update_name>par_dashboard_widget_13e05f1483f85210cadecc65eeaad3ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-18 18:37:51</sys_updated_on>
+        <visualization/>
+        <w>24</w>
+        <widget_props/>
+        <x>0</x>
+        <y>57</y>
+    </par_dashboard_widget>
+</record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">6e6dc790a0f85210e39936807f543d5e</canvas>
+        <component display_value="Calendar Report">259e0221ff18a75c5f5f0fb28fa5d32f</component>
+        <component_props>{"table":"x_1311516_loaner_v_vehicle_tracker","reportSource":"","encodedQuery":"","startDateField":"date_required","endDateField":"expected_return_date","eventDisplayFields":"number,date_required,expected_return_date","componentTitle":"Loaner Vehicle Tracker Calendar","headingLevel":2,"hideDevSettings":false,"headingVariant":false,"followFilters":true,"showFilterOverview":true,"showDescription":true,"componentDescription":"","viewType":"MONTH","eventColor":"","filterConfigurations":"@state.parFilters","id":"eventDisplayFields","value":"number,date_required,expected_return_date","noDebounce":true,"propLabel":"Event display fields"}</component_props>
+        <h>30</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-18 17:14:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>116093d483f85210cadecc65eeaad341</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_update_name>par_dashboard_widget_116093d483f85210cadecc65eeaad341</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-18 17:39:44</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>27</y>
+    </par_dashboard_widget>
+</record_update>

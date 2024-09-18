@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">6e6dc790a0f85210e39936807f543d5e</canvas>
+        <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
+        <component_props>{"table":"x_1311516_loaner_v_vehicle_tracker","fixedQuery":"tracker_status=open","listTitle":"Open Loaner Vehicle Requests","columns":"number,vehicle,date_required,expected_return_date,assigned_to,tracker_status","query":"","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":true,"hideDotwalk":true,"hideColumnReorder":true,"hideRowSelector":false,"hideColumnGrouping":true,"hideColumnResizing":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":true,"noDebounce":true,"id":"query","value":"","propLabel":"filter","maxColumns":6,"limit":5}</component_props>
+        <h>15</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-18 17:01:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>aa6dc790f3f85210746354ede8aaef5e</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_update_name>par_dashboard_widget_aa6dc790f3f85210746354ede8aaef5e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-18 17:39:44</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>12</y>
+    </par_dashboard_widget>
+</record_update>

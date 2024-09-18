@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>fe2c4d06b5f346106359dbb56453b6ad</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>loaner-vehicle-request-workspace</path>
+        <root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 01:03:53</sys_created_on>
+        <sys_id>3e2c4d0691f3461006ff54f85f7fb8ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Vehicle Request workspace</sys_name>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_update_name>sys_ux_page_registry_3e2c4d0691f3461006ff54f85f7fb8ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-05 01:03:53</sys_updated_on>
+        <title>Loaner Vehicle Request workspace</title>
+    </sys_ux_page_registry>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</application>
+        <file_path/>
+        <instance_id>87b008181b4af9541024eb9b2d4bcb87</instance_id>
+        <instance_name>dev189380</instance_name>
+        <name>sys_ux_page_registry_3e2c4d0691f3461006ff54f85f7fb8ad</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>fe2c4d06b5f346106359dbb56453b6ad</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>loaner-vehicle-request-workspace</path>
+        <root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 01:03:53</sys_created_on>
+        <sys_id>3e2c4d0691f3461006ff54f85f7fb8ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Vehicle Request workspace</sys_name>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_update_name>sys_ux_page_registry_3e2c4d0691f3461006ff54f85f7fb8ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-05 01:03:53</sys_updated_on>
+        <title>Loaner Vehicle Request workspace</title>
+    </sys_ux_page_registry>
+</record_update>]]></payload>
+        <payload_hash>1925631519</payload_hash>
+        <record_name>Loaner Vehicle Request workspace</record_name>
+        <reverted_from/>
+        <source>dd650fd483785210cadecc65eeaad3de</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-18 16:27:42</sys_created_on>
+        <sys_id>3d95075883785210cadecc65eeaad3e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19205f605080000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-18 16:27:42</sys_updated_on>
+        <type>UX Application</type>
+        <update_guid>f9950758b47852106092a2a6af415ce2</update_guid>
+        <update_guid_history>f9950758b47852106092a2a6af415ce2:1925631519</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-18 17:00:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>765280e108be4a319ea43cdfa4ef7e81</sys_id>
+        <sys_metadata>3e2c4d0691f3461006ff54f85f7fb8ad</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Vehicle Request workspace</sys_name>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_scope_delete display_value="">082d79490ac4468f81fd6de296a8af59</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_3e2c4d0691f3461006ff54f85f7fb8ad</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_3e2c4d0691f3461006ff54f85f7fb8ad">3d95075883785210cadecc65eeaad3e2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-18 17:00:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

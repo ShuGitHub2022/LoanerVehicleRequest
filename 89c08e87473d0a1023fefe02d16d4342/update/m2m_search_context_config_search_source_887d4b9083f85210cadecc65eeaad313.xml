@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>300</order>
+        <search_context_config display_value="Loaner Vehicle Request workspace - Workspace Search">962c4d062af346107b80b201772e8166</search_context_config>
+        <source display_value="Loaner Vehicle Request Workspace - x_1311516_loane">847d4b9083f85210cadecc65eeaad311</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-18 17:01:59</sys_created_on>
+        <sys_id>887d4b9083f85210cadecc65eeaad313</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_887d4b9083f85210cadecc65eeaad313</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-18 17:01:59</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

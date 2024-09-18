@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_1311516_loaner_v.getLocation</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description>get user's location</description>
+        <mobile_callable>false</mobile_callable>
+        <name>getLocation</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[var getLocation = Class.create();
+getLocation.prototype = {
+    initialize: function() {
+    },
+	locationDetails: function(){
+		var user = this.getParameter('user_sysid');
+		var location;
+		var userGr = new GlideRecord('sys_user');
+		if(userGr.get(user)){ //find the user
+			location = userGr.getValue('location');
+		}
+		return location;
+	},
+	
+    type: 'getLocation'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-18 18:11:10</sys_created_on>
+        <sys_id>ad4dd7dc83bc5210cadecc65eeaad38e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>getLocation</sys_name>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_update_name>sys_script_include_ad4dd7dc83bc5210cadecc65eeaad38e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-18 18:11:10</sys_updated_on>
+    </sys_script_include>
+</record_update>

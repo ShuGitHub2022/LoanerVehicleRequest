@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="DELETE">
+        <active>true</active>
+        <api_name>x_1311516_loaner_v.Audience for app loaner-vehicle-request-workspace</api_name>
+        <description/>
+        <name>Audience for app loaner-vehicle-request-workspace</name>
+        <role_names/>
+        <roles name="x_1311516_loaner_v.iva_user">fd502a0f47bd0a1023fefe02d16d435b</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 01:04:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>294c014683f34610e8e25930ceaad3c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app loaner-vehicle-request-workspace</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_update_name>sys_ux_applicability_294c014683f34610e8e25930ceaad3c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-05 01:04:13</sys_updated_on>
+    </sys_ux_applicability>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</application>
+        <file_path/>
+        <instance_id>87b008181b4af9541024eb9b2d4bcb87</instance_id>
+        <instance_name>dev189380</instance_name>
+        <name>sys_ux_applicability_294c014683f34610e8e25930ceaad3c7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_1311516_loaner_v.Audience for app loaner-vehicle-request-workspace</api_name>
+        <description/>
+        <name>Audience for app loaner-vehicle-request-workspace</name>
+        <role_names/>
+        <roles name="x_1311516_loaner_v.iva_user">fd502a0f47bd0a1023fefe02d16d435b</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 01:04:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>294c014683f34610e8e25930ceaad3c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app loaner-vehicle-request-workspace</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_update_name>sys_ux_applicability_294c014683f34610e8e25930ceaad3c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-05 01:04:13</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>]]></payload>
+        <payload_hash>1195730058</payload_hash>
+        <record_name>Audience for app loaner-vehicle-request-workspace</record_name>
+        <reverted_from/>
+        <source>dd650fd483785210cadecc65eeaad3de</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-18 16:27:38</sys_created_on>
+        <sys_id>0d95835883785210cadecc65eeaad3c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19205f5f7400000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-18 16:27:38</sys_updated_on>
+        <type>Audience</type>
+        <update_guid>c9958358707852105fdce44541d278c6</update_guid>
+        <update_guid_history>c9958358707852105fdce44541d278c6:1195730058</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-18 17:00:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_applicability">sys_ux_applicability</sys_db_object>
+        <sys_id>069fafe6b70b460eae253e225504e2b9</sys_id>
+        <sys_metadata>294c014683f34610e8e25930ceaad3c7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app loaner-vehicle-request-workspace</sys_name>
+        <sys_package display_value="Loaner Vehicle Request" source="x_1311516_loaner_v">89c08e87473d0a1023fefe02d16d4342</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request">89c08e87473d0a1023fefe02d16d4342</sys_scope>
+        <sys_scope_delete display_value="">082d79490ac4468f81fd6de296a8af59</sys_scope_delete>
+        <sys_update_name>sys_ux_applicability_294c014683f34610e8e25930ceaad3c7</sys_update_name>
+        <sys_update_version display_value="sys_ux_applicability_294c014683f34610e8e25930ceaad3c7">0d95835883785210cadecc65eeaad3c6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-18 17:00:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
